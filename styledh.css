@@ -1,0 +1,86 @@
+*{
+	padding:0px;
+	margin: auto;
+}
+#tong{
+	margin: auto;
+}
+#header{
+	width: 1280px;
+	height: 170px;
+	background: #2E3192;
+
+}
+#header img{
+	height: 150px;	
+	margin-left:350px;
+}
+hr{
+	background: yellow;
+	width: 1280px;
+	height: 3px;
+}
+#menu{
+	padding-top: 20px;
+	width: 1280px;
+	background: #f3f3f3;
+	font-size: 23px;
+	height: 50px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	margin-left: 50px;
+}
+#menu{
+	background-image: url(bkk.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin: auto;
+	width: 1280px;
+	height: 1200px;
+}
+#menu iframe{
+	margin-left: 230px;
+	margin-top: 20px;
+	width: 800px;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+#trai{
+	width: 426px;
+	float: left;
+
+}
+#giua{
+	width: 426px;
+	float: left;
+}
+#phai{
+	width: 426px;
+	float: left;
+}
+#thuong img{
+	margin-left: 23px;
+}
+#thuong p{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+#footer{
+	width: 1280px;
+	background: #666666;
+	height: 70px;
+	text-align: center;
+	color: white;
+}
+a:hover{
+	color: yellow;
+}
+a:active{
+	color: blue;
+}

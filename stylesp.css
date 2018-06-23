@@ -1,0 +1,120 @@
+*{
+	padding:0px;
+	margin: auto;
+}
+#tong{
+	margin: auto;
+}
+#header{
+	width: 1280px;
+	height: 170px;
+	background: #2E3192;
+
+}
+#header img{
+	height: 150px;	
+	margin-left:350px;
+}
+hr{
+	background: yellow;
+	width: 1280px;
+	height: 3px;
+}
+#menu{
+	padding-top: 20px;
+	width: 1280px;
+	background: #1979C5;
+	font-size: 23px;
+	height: 50px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	margin-left: 50px;
+}
+#main{
+	width: 1280px;
+}
+#trai{
+	width: 640px;
+	margin-left: 0px;
+	background: #f3f3f3;
+	height: 600px;
+	float: left;
+}
+#trai img{
+	padding-top: 30px;
+	padding-left: 200px;
+}
+#textcoca{
+	width: 640px;
+	margin-left: 0px;
+	background: #f3f3f3;
+	height: 600px;
+	float: left;
+	
+	
+}
+#textcoca p{
+	padding-top: 20px;
+	font-size: 30px;
+}
+h3{
+	padding-top: 150px;
+	font-size: 30px;
+}
+#MountainDew{
+	width: 640px;
+	margin-right: 0px;
+	background: #f3f3f3;
+	height: 600px;
+	float: left;
+}
+#textMountainDew{
+	width: 600px;
+	float: left;
+	font-size: 30px;
+	height: 600px;
+	background: #f3f3f3;
+	padding-left: 40px;
+}
+#up{
+	width: 640px;
+	margin-left: 0px;
+	background: #f3f3f3;
+	height: 600px;
+	float: left;
+
+}
+#textup{
+	width: 600px;
+	float: left;
+	font-size: 30px;
+	height: 600px;
+	background: #f3f3f3;
+	padding-left: 40px;
+	}
+	#xemthem a{
+		padding-left: 500px;
+		font-size: 30px;
+		color: black;
+	}
+	#xemthem{
+		width: 1280px;
+		background: #f3f3f3;
+		height: 40px;
+		padding-top: 10px;
+	}
+	#footer{
+	width: 1280px;
+	background: #666666;
+	height: 70px;
+	text-align: center;
+	color: white;
+}
+a:hover{
+	color: yellow;
+}
+a:active{
+	color: blue;
+}
